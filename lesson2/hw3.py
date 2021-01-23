@@ -1,6 +1,7 @@
 number, oper = None, None
 final_value = 0.0
 
+# Using try here, to make sure we got numbers in
 while oper == None:
     while number == None:
         try:
